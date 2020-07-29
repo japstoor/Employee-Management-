@@ -1,0 +1,8 @@
+<nav class="navbar navbar-dark bg-dark">
+  <!-- Navbar content -->
+  <span class="navbar-brand mb-0 h1" *ngIf="(LoginStatus$ | async)">{{users.firstName }}|</span>
+  <a class="navbar-brand mb-0 h1"  [routerLink]="['/view']"  >Home</a>
+  <div class="ml-auto">
+    <button class="btn btn-dark" type="button" (click)="logOut()" *ngIf="(LoginStatus$ | async) as LoginStatus">Logout</button>
+</div>
+</nav>  
