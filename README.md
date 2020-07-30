@@ -8,8 +8,8 @@ In this section, you will learn how to build full fledged Ecommerce app using as
 
 Here, you will learn variety of technologies like.
 
-# Angular Routing.
-# Angular Reactive Forms.
+Angular Routing.
+ Angular Reactive Forms.
 Angular validation
 .Net Core
 Angular
