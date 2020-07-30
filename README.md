@@ -1,6 +1,39 @@
-# Login
+# Employee Management 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.8.
+
+
+# Introduction
+In this section, you will learn how to build full fledged Ecommerce app using asp.net core and angular 9. Below are the key takeaways from this project. Anyone who wants to learn and write professional enterpise projects can refer this project. This project not only illustrates how to implement all layers to the point rather it adheres to best practices as followed by industry.
+
+Here, you will learn variety of technologies like
+
+Angular Routing
+Angular Reactive Forms
+Angular validation
+.Net Core
+Angular
+C#
+Repository Pattern
+Unit of Work Pattern
+Specification Pattern
+Caching
+How to use multiple DbContext to separate business logic with Identities
+How to use JWTs token using ASP.NET Identity
+How to build a cool theme from bootstrap
+How to use specification pattern in conjunction with Repository and Unit of Work pattern
+How to make use of Reactive Forms
+How to create interceptors
+How to implement Paging, Sorting, Searching and Filtering
+How to implement caching both at client and server level
+How to use Azure Redis Cache
+How to integrate payment gateway using Stripe
+How to create reusable reactive forms
+How to make use of Input and Output Binding
+How to make use various observables
+How to create custom application service extensions
+How to make API error handling more consistent and generic
+And many more things
 
 ## Development server
 
