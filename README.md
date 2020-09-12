@@ -16,25 +16,11 @@ Here, you will learn variety of technologies like.
 * Angular
 * C#
 * Repository Pattern
-* Unit of Work Pattern
-* Specification Pattern
 * Caching
 * How to use multiple DbContext to separate business logic with Identities
 * How to use JWTs token using ASP.NET Identity
 * How to build a cool theme from bootstrap 4.5
-* How to use specification pattern in conjunction with Repository and Unit of Work pattern
-* How to make use of Reactive Forms
-* How to create interceptors
-* How to implement Paging, Sorting, Searching and Filtering
-* How to implement caching both at client and server level
-* How to use Azure Redis Cache
-* How to integrate payment gateway using Stripe
-* How to create reusable reactive forms
-* How to make use of Input and Output Binding
-* How to make use various observables
-* How to create custom application service extensions
-* How to make API error handling more consistent 
-* And many more things
+
 
 ## Development server
 
